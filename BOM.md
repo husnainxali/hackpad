@@ -13,4 +13,3 @@
 | M2/M3 screws + standoffs | 4 | For case assembly | |
 | USB-C cable | 1 | For flashing/power | |
 
-*Fill in your actual costs and part links (e.g. AliExpress/Digikey/local retailer) before submitting.*
