@@ -11,9 +11,9 @@
 *Add your images to `CAD/Renders/` and update the links below.*
 
 ![Case Render](CAD/Renders/caseRender.png)
-![Front PCB Render](CAD/Renders/frontPCBRender.png)
-![Back PCB Render](CAD/Renders/backPCBRender.png)
-![Schematic](CAD/Renders/schematic.png)
+![Front PCB Render](cad/renders/brokiepadfront.png)
+![Back PCB Render](cad/renders/brokiepadback.png)
+![Schematic](pcb/schematic.png)
 ![PCB Design](CAD/Renders/PCBRender.png)
 
 ---
