@@ -14,7 +14,7 @@
 </p>
 <p align="center">
   <img src="cad/renders/brokiepadexplodeview.png" width="300">
-  <img src="cad/renders/cad/renders/1f4cca31-3f70-4617-8bbd-2b93f4fbb5a4.PNG" width="300">
+  <img src="cad/renders/front.PNG" width="300">
 </p>
 <p align="center">
   <img src="cad/renders/brokiepadside.png" width="300">
