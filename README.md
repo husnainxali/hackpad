@@ -9,10 +9,12 @@
 ## Renders
 
 <p align="center">
+    <em>PCB</em>
   <img src="cad/renders/brokiepadfront.png" width="300">
   <img src="cad/renders/brokiepadback.png" width="300">
 </p>
 <p align="center">
+    <em>Case</em>
   <img src="cad/renders/brokiepadexplodeview.png" width="300">
   <img src="cad/renders/front.PNG" width="300">
 </p>
@@ -23,7 +25,7 @@
 <p align="center">
   <img src="pcb/schematic.png" width="500"><br>
   <em>Schematic</em>
----
+
 
 ## BOM
 
