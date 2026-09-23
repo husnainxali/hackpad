@@ -15,7 +15,7 @@
 ![Front PCB Render](cad/renders/brokiepadfront.png)
 ![Back PCB Render](cad/renders/brokiepadback.png)
 ![Schematic](pcb/schematic.png)
-![PCB Design](CAD/Renders/PCBRender.png)
+![PCB Design](pcb/image.png)
 
 ---
 
