@@ -62,7 +62,7 @@ Brokiepad is a **custom 3x3 macropad** built around the **Seeed Studio XIAO RP20
 
 ## How to Use
 
-1. **Flash the firmware** – Grab `brokiepad_default.uf2` from the `Firmware/` folder (or compile it yourself, see below).
+1. **Flash the firmware** – Grab `brokiepad_firmware.uf2` from the `firmware/` folder (or compile it yourself, see below).
 2. **Put the XIAO RP2040 into bootloader mode** – hold the BOOT button while plugging it in via USB-C.
 3. **Drag and drop** the `.uf2` file onto the drive that appears.
 4. **Plug it back in normally** and start using it.
@@ -75,7 +75,7 @@ This uses [QMK Firmware](https://github.com/qmk/qmk_firmware). If you want to bu
 qmk compile -kb brokiepad -km default
 ```
 
-The keyboard files live in `Firmware/brokiepad/`.
+The keyboard files live in `firmware/`.
 
 ---
 
