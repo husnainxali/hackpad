@@ -20,8 +20,9 @@
   <img src="cad/renders/brokiepadside.png" width="300">
   <img src="pcb/image.png" width="300">
 </p>
-![Schematic](pcb/schematic.png)
-
+<p align="center">
+  <img src="pcb/schematic.png" width="500"><br>
+  <em>Schematic</em>
 ---
 
 ## BOM
