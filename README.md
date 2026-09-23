@@ -1,4 +1,4 @@
-# Brokiepad – A 3x3 Macropad with Attitude
+# Brokiepad – A 3x3 Macropad
 
 ### A compact, glowing macropad built for gaming, shortcuts, and looking cool on your desk.
 
