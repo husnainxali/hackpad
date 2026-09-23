@@ -15,7 +15,7 @@
 <p align="center">
     <em>Case</em>
   <img src="cad/renders/brokiepadexplodeview.png" width="300">
-  <img src="cad/renders/front.png" width="300">
+  <img src="cad/renders/front.PNG" width="300">
 </p>
 <p align="center">
   <img src="cad/renders/brokiepadside.png" width="300">
@@ -23,9 +23,7 @@
 </p>
 <p align="center">
   <img src="pcb/schematic.png" width="500"><br>
-  <em>Schematic</em>
-</p>
-
+  <em>Schematic</em> </p>
 ## BOM
 
 Full parts list with quantities and costs: **[BOM.md](BOM.md)**
