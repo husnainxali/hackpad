@@ -9,7 +9,9 @@
 ## Renders
 
 
-![Case Render](CAD/Renders/caseRender.png)
+![Case Render](cad/renders/brokiepadexplodeview.png)
+![case side](cad/renders/brokiepadside.png)
+![case front](cad/renders/1f4cca31-3f70-4617-8bbd-2b93f4fbb5a4.PNG)
 ![Front PCB Render](cad/renders/brokiepadfront.png)
 ![Back PCB Render](cad/renders/brokiepadback.png)
 ![Schematic](pcb/schematic.png)
