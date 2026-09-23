@@ -8,7 +8,6 @@
 
 ## Renders
 
-*Add your images to `CAD/Renders/` and update the links below.*
 
 ![Case Render](CAD/Renders/caseRender.png)
 ![Front PCB Render](cad/renders/brokiepadfront.png)
