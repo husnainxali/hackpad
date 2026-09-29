@@ -20,19 +20,19 @@
 </p>
 
 - **Explode view**
-- 
+ 
 <p align="center">
       <img src="cad/renders/brokiepadexplodeview.png" width="500">
 </p>
 
 - **PCB layout**
-- 
+ 
 <p align="center">
   <img src="pcb/image.png" width="300">
 </p>
 
 - **Schematic**
-- 
+ 
 <p align="center">
   <img src="pcb/schematic.png" width="500"><br>
  </p>
