@@ -26,7 +26,7 @@
   <img src="pcb/image.png" width="300">
 </p>
 <p align="center">
-      <em algin="top">Schematic</em>
+      <em algin="center">Schematic</em>
   <img src="pcb/schematic.png" width="500"><br>
  </p>
 
