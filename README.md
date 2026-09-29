@@ -24,7 +24,9 @@
 <p align="center">
   <img src="pcb/schematic.png" width="500"><br>
   <em>Schematic</em> </p>
-# BOM
+
+  ---
+## BOM
 
 Full parts list with quantities and costs: **[BOM.md](BOM.md)**
 
