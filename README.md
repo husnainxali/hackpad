@@ -11,20 +11,28 @@
   <img src="cad/renders/brokiepadfront.png" width="300">
   <img src="cad/renders/brokiepadback.png" width="300">
 </p>
+
 - **Case**
+  
 <p align="center">
 <img src="cad/renders/brokiepadside.png" width="300">
   <img src="cad/renders/front.PNG" width="300">
 </p>
+
 - **Explode view**
+- 
 <p align="center">
       <img src="cad/renders/brokiepadexplodeview.png" width="500">
 </p>
+
 - **PCB layout**
+- 
 <p align="center">
   <img src="pcb/image.png" width="300">
 </p>
+
 - **Schematic**
+- 
 <p align="center">
   <img src="pcb/schematic.png" width="500"><br>
  </p>
