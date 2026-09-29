@@ -8,25 +8,24 @@
 ## Renders
 - **PCB**
 <p align="center">
-    <em>PCB</em>
   <img src="cad/renders/brokiepadfront.png" width="300">
   <img src="cad/renders/brokiepadback.png" width="300">
 </p>
+- **Case**
 <p align="center">
-    <em>Case</em>
 <img src="cad/renders/brokiepadside.png" width="300">
   <img src="cad/renders/front.PNG" width="300">
 </p>
+- **Explode view**
 <p align="center">
-    <em>Explode view</em>
       <img src="cad/renders/brokiepadexplodeview.png" width="500">
-</p>    
+</p>
+- **PCB layout**
 <p align="center">
-  <em>PCB layout</em>
   <img src="pcb/image.png" width="300">
 </p>
+- **Schematic**
 <p align="center">
-      <em algin="center">Schematic</em>
   <img src="pcb/schematic.png" width="500"><br>
  </p>
 
