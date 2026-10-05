@@ -45,30 +45,28 @@ Full parts list with quantities and costs: **[BOM.md](BOM.md)**
 ---
 ### Features:
 
-- **4 Mechanical Switches**
+- **9 Mechanical Switches**
 - **OLED Display** 
-- **9 SK6812MINI-E LEDs**
+- **12 SK6812MINI-E LEDs**
 - **QMK Firmware**
 - **Custom KiCad PCB**
 - **3D-Printed Case**
 
 ---
 
-## Default Keymap
+## Keymap rn 
 
 | Row | Key 1 | Key 2 | Key 3 |
 |-----|-------|-------|-------|
 | **1** | G | W | R |
 | **2** | A | S | D |
-| **3** | Left Shift | Caps Lock | Left Ctrl |
+| **3** | Left Shift | Space | Left Ctrl |
 
 
 ## Why?
 
-I built this for [Hackpad](https://hackpad.hackclub.com/), a Hack Club YSWS project. I'm a self-taught 3D artist and hobbyist hardware tinkerer (**brokie.3d**), and this was my first full PCB-to-case-to-firmware build — designing the schematic, routing the board, modeling the case, and writing the firmware myself from scratch.
+I built this for [Hackpad](https://hackpad.hackclub.com/), a Stardance project and i hope u like it (0_0) 
 
 ---
-
-## License
 
 This project is licensed under the [MIT License](LICENSE).
