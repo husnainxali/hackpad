@@ -14,7 +14,7 @@
     },
     "rgblight": {
         "driver": "ws2812",
-        "led_count": 9
+        "led_count": 12
     },
     "ws2812": {
         "driver": "vendor",
