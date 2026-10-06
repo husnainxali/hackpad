@@ -2,7 +2,7 @@
 
 ![brokiepad](image replace me!)
 
-A 3x3 ortholinear macropad with an OLED display and 9 addressable RGB LEDs, built on the Seeed Studio XIAO RP2040.
+A 3x3 ortholinear macropad with an OLED display and 12 addressable RGB LEDs, built on the Seeed Studio XIAO RP2040.
 
 * Keyboard Maintainer: [husnainxali](https://github.com/husnainxali)
 * Hardware Supported: Brokiepad custom PCB, Seeed Studio XIAO RP2040
