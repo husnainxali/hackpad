@@ -40,7 +40,7 @@
   ---
 ## BOM
 
-Full parts list with quantities and costs: **[BOM.md](BOM.csv)**
+Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
 
 ---
 ### Features:
