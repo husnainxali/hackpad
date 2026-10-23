@@ -5,7 +5,7 @@ Keycaps,9,,3.00
 SK6812MINI-E addressable LEDs,12,Daisy-chained,2.00
 SSD1306-style OLED (I2C),1,"0.91"" or 0.96"", confirm your size",3.00
 1N4148 diodes,9,"One per switch, matrix",1.00
-Custom PCB,1,"KiCad design, see PCB/",15.00
+Custom PCB,1,"KiCad design, see PCB/",6.0
 3D-printed case,1,"See CAD/ for STL/design files",5.00
 M2/M3 screws + standoffs,4,For case assembly,2.00
 USB-C cable,1,For flashing/power,3.00
