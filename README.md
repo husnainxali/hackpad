@@ -2,8 +2,6 @@
 
 ### A simple and minimal 3*3 macropad with a built in oled display that can be customized to any use rn i have mapped it out as a gaming macropad using some of the basic keys that r needed while playing any game .
 
-*(Built for [Hackpad](https://hackpad.hackclub.com/), a Hack Club YSWS project.)*
-
 ---
 ## Renders
 - **PCB**
