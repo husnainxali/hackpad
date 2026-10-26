@@ -63,10 +63,18 @@ Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
 | **3** | Left Shift | Space | Left Ctrl |
 
 
-## Why?
-
-I built this for [Hackpad](https://hackpad.hackclub.com/), a Stardance project and i hope u like it (0_0) 
-
 ---
+## Getting Started
+- **Download PCB files and edit them according to your own need**
+- **Download QMK MSYS**
+- **Install Python and run `python3 -m pip install qmk` and then run `qmk setup` in terminal**
+- **Download **[Brokiepad.uf2](Production/brokiepad.uf2)****
+- **connect your macropad with a pc using a cable** 
+- **Hold the boot button on the RP2040 board.**
+- **Keep holding it while you plug the USB cable into your PC, then release the button.**
+- **A drive named RPI-RP2 appears in File Explorer.**
+- **Drag and drop your .uf2 file onto that drive.**
+- **The drive disappears by itself after a few seconds and the board reboots as your macropad.**
+```
 
 This project is licensed under the [MIT License](LICENSE).
