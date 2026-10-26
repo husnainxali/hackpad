@@ -75,6 +75,7 @@ Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
 - **A drive named RPI-RP2 appears in File Explorer.**
 - **Drag and drop your .uf2 file onto that drive.**
 - **The drive disappears by itself after a few seconds and the board reboots as your macropad.**
-```
-
+- 
 This project is licensed under the [MIT License](LICENSE).
+
+---
